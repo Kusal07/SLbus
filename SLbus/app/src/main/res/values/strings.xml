@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SLbus</string>
+    <string name="tvname">Name</string>
+    <string name="tvnic">NIC</string>
+    <string name="tvcontact">Contact</string>
+    <string name="tvemail">Email</string>
+    <string name="etname">Your Name</string>
+    <string name="etnic">123456789V</string>
+    <string name="etcontact">07XXXXXXXX</string>
+    <string name="etemail">email@email.com</string>
+    <string name="btnNEXT">NEXT</string>
+</resources>

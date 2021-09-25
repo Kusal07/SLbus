@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493392153744",
+    "project_id": "slbus-65c6d",
+    "storage_bucket": "slbus-65c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493392153744:android:ed410fd64c65eba85cdc15",
+        "android_client_info": {
+          "package_name": "com.example.slbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493392153744-308q4vf49c8cp4d7retuap0vtiuj1h2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kc-gteVTYVzhmQvf__VivvsZ7vgzEOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493392153744-308q4vf49c8cp4d7retuap0vtiuj1h2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
