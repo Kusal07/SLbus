@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SLbus">
         <activity
+            android:name=".bookinglistextra"
+            android:exported="true" />
+        <activity
+            android:name=".BookingList"
+            android:exported="true" />
+        <activity
+            android:name=".DisplayBooking"
+            android:exported="true" />
+        <activity
+            android:name=".BookingDetails"
+            android:exported="true" />
+        <activity
+            android:name=".SeatSelect"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

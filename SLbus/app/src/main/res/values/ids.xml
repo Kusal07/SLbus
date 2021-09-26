@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etfrom" type="id" />
+    <item name="etto" type="id" />
+    <item name="ettime" type="id" />
+</resources>

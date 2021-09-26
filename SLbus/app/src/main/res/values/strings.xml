@@ -8,5 +8,18 @@
     <string name="etnic">123456789V</string>
     <string name="etcontact">07XXXXXXXX</string>
     <string name="etemail">email@email.com</string>
-    <string name="btnNEXT">NEXT</string>
+    <string name="btnNEXT">BOOK</string>
+    <string name="tvseat">Seat No : </string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn10">10</string>
+    <string name="tvseatshow" />
+    <string name="btndisplay">Show</string>
 </resources>
